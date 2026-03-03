@@ -5,7 +5,7 @@ I am a cybersecurity professional with expertise in both **Red Teaming** (penetr
 
 I am particularly interested in **network security, ransomware detection, malware analysis, and dark web monitoring**. My projects reflect this passion, ranging from cyber defense systems to forensic analysis of Tor artifacts.  
 
-With certifications like **CEH (Zynix), CCNA (Cisco), and Blue Team Certificate**, I continue to strengthen my technical foundation while staying aligned with industry standards.
+With certifications like **CEH (Zync), CCNA (Cisco), and Blue Team Certificate**, I continue to strengthen my technical foundation while staying aligned with industry standards.
 
 ---
 
