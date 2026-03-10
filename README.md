@@ -1,9 +1,9 @@
 # Muhammad Nafees
 
 ## About Me
-I am a cybersecurity professional with expertise in both **Red Teaming** (penetration testing, exploitation, reconnaissance) and **Blue Teaming** (threat detection, incident response, forensic analysis). My focus is on building resilient systems, detecting vulnerabilities, and implementing strong defense mechanisms.  
+I am a cybersecurity professional with expertise inCyber security. My focus is on building resilient systems, detecting vulnerabilities, and implementing strong defense mechanisms.  
 
-I am particularly interested in **network security, ransomware detection, malware analysis, and dark web monitoring**. My projects reflect this passion, ranging from cyber defense systems to forensic analysis of Tor artifacts.  
+I am particularly interested in **network security, ransomware detection, malware analysis**. My projects reflect this passion, ranging from cyber defense systems to forensic analysis of Tor artifacts.  
 
 With certifications like **CEH (Zync), CCNA (Cisco), and Blue Team Certificate**, I continue to strengthen my technical foundation while staying aligned with industry standards.
 
